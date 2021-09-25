@@ -1,0 +1,6 @@
+﻿  Efimenko_Protection_labq.cpp
+D:\5 семестр\Защита информации\лаб1\Efimenko_Protection_labq\Efimenko_Protection_labq\Efimenko_Protection_labq.cpp(26,20): warning C4018: <: несоответствие типов со знаком и без знака
+D:\5 семестр\Защита информации\лаб1\Efimenko_Protection_labq\Efimenko_Protection_labq\Efimenko_Protection_labq.cpp(28,10): warning C4018: >=: несоответствие типов со знаком и без знака
+D:\5 семестр\Защита информации\лаб1\Efimenko_Protection_labq\Efimenko_Protection_labq\Efimenko_Protection_labq.cpp(43,20): warning C4018: <: несоответствие типов со знаком и без знака
+D:\5 семестр\Защита информации\лаб1\Efimenko_Protection_labq\Efimenko_Protection_labq\Efimenko_Protection_labq.cpp(45,10): warning C4018: >=: несоответствие типов со знаком и без знака
+  Efimenko_Protection_labq.vcxproj -> D:\5 семестр\Защита информации\лаб1\Efimenko_Protection_labq\Debug\Efimenko_Protection_labq.exe
